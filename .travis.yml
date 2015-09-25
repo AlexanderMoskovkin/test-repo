@@ -3,8 +3,6 @@ matrix:
  include:
    - node_js: "0.10"
    - node_js: "0.12"
-   - node_js: "iojs"
-   - node_js: "0.10"
  fast_finish: true
 
 notifications:
